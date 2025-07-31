@@ -57,10 +57,9 @@ Este proyecto forma parte del camino para obtener el **Data Analyst Certificate*
 This project is part of the path to earn the **Data Analyst Certificate** at **DataCamp**.
 
 ## 👤 Autor / Author
-
-- **Nombre / Name** [Diego Arroyo]
-- **Email:** [diegojulioarroyo@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/diego-arroyo-b2153b229/]
+**Diego Arroyo**  
+📧 diegojulioarroyo@gmail.com  
+🔗 [Mi LinkedIn](https://www.linkedin.com/in/diego-arroyo-b2153b229/) 
 
 ---
 
